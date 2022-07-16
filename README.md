@@ -19,7 +19,7 @@
 * Docker Completion for Powershell | <https://github.com/matt9ucci/DockerCompletion>
 * Krew | Krew is the plugin manager for kubectl command-line tool. | <https://krew.sigs.k8s.io/>
 
-## Diğer
+## Others
 
 * Footloose | Vagrant but with containers | https://github.com/weaveworks/footloose
 * Kured | (KUbernetes REboot Daemon) is a daemonset that performs safe automatic node reboots when the need to do so is indicated by the package management system of the underlying OS. | https://github.com/weaveworks/kured
